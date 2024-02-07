@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "tileid": 1,
+      "scale": "750",
+      "photo": "photo1.jpg"
+    },
+    {
+      "tileid": 2,
+      "scale": "1250",
+      "photo": "photo2.jpg"
+    },
+    {
+      "tileid": 3,
+      "scale": "2500",
+      "photo": "photo3.jpg"
+    }
+  ],
+  "client": {
+    "name": "Oxford"
+    "logo": "Logo 1"
+  }
+}
