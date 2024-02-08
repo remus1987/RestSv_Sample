@@ -3,5 +3,5 @@
     {
       "id": 1,
       "scale": "750",
-      "photo": "photo1.jpg"
+      "photo": "https://mm.buchananservices.uk/geoserver/gwc/service/wmts?layer=mastermap%3Amm-standard&style=&tilematrixset=BC27700&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng8&TileMatrix=BC27700%3A14&TileCol=9361&TileRow=14166"
     }}
